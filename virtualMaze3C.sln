@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "virtualMaze3C", "virtualMaze3C\virtualMaze3C.csproj", "{768A7D6B-F2A0-413E-84FD-61E472B9BF82}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "091310IHM03", "instalacion de virtual maeze 3C\instalacion de virtual maeze 3C.vdproj", "{E9257847-E448-4A85-9AE5-95D9140F3F44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{768A7D6B-F2A0-413E-84FD-61E472B9BF82}.Debug|x86.ActiveCfg = Debug|x86
+		{768A7D6B-F2A0-413E-84FD-61E472B9BF82}.Debug|x86.Build.0 = Debug|x86
+		{768A7D6B-F2A0-413E-84FD-61E472B9BF82}.Release|x86.ActiveCfg = Release|x86
+		{768A7D6B-F2A0-413E-84FD-61E472B9BF82}.Release|x86.Build.0 = Release|x86
+		{E9257847-E448-4A85-9AE5-95D9140F3F44}.Debug|x86.ActiveCfg = Debug
+		{E9257847-E448-4A85-9AE5-95D9140F3F44}.Release|x86.ActiveCfg = Release
+		{E9257847-E448-4A85-9AE5-95D9140F3F44}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
